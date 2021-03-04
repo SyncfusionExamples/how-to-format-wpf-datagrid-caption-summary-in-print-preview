@@ -1,5 +1,5 @@
 # how-to-format-wpf-datagrid-caption-summary-in-print-preview
-How to format WPF DataGrid (SfDataGrid) CaptionSummary in PrintPreview?
+How to format [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid) CaptionSummary in PrintPreview?
 
 By default, the caption summary content and style will not be rendered in the PrintPreview dialog of [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid). To format CaptionSummary styles in PrintPriview, a custom print manager can be inherited from GridPrintManager and the GetPrintCaptionSummaryCell method can be overridden to update the style.
 
