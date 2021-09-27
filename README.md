@@ -26,3 +26,5 @@ dataGrid.PrintSettings.PrintManagerBase = new CustomPrintManagerBase(dataGrid);
 ```
 
 ![CaptionSummary](CaptionSummary.PNG)
+
+KB article - [how-to-format-wpf-datagrid-caption-summary-in-print-preview](https://github.com/SyncfusionExamples/how-to-format-wpf-datagrid-caption-summary-in-print-preview/edit/main/README.md)
